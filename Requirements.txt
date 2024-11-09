@@ -1,1 +1,9 @@
-# rag
+requirements to install using pip command in terminal
+
+Python 3.8 or higher
+Streamlit
+PyPDF2
+LangChain
+FAISS
+Google Generative AI SDK (google-generativeai)
+Dotenv
